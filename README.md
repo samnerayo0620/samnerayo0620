@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Nerayo</h1>
-<h3 align="center">A passionate full stack developer from Seattle</h3>
+
 <img align="center" alt="GitHub Banner" width="100%" src="https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg">
 
 <br>
